@@ -11,10 +11,6 @@
 - 🌓 Modo claro/escuro
 - 💾 Armazenamento local de dados
 
-## 🎨 Screenshots
-
-[ADICIONAR SCREENSHOTS DO APP AQUI]
-
 ## 🛠️ Tecnologias Utilizadas
 
 - **Flutter** - Framework UI multiplataforma
@@ -43,4 +39,4 @@
 ## 👤 Autor
 
 Verônica Gabriela Martins Gomes
-- GitHub: (@VegaMartins](https://github.com/VegaMartins)
+- GitHub: (@VegaMartins)(https://github.com/VegaMartins)

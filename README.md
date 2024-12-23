@@ -14,11 +14,11 @@
 ## 📱 Screenshots
 
 <div align="center">
-  <img src="screenshots/home_screen.png" alt="Tela inicial" width="250"/>
+  <img src="screenshots/home_screen.jpg" alt="Tela inicial" width="250"/>
   <p><em>Tela inicial com grid de livros e busca</em></p>
-  <img src="screenshots/details_screen.png" alt="Detalhes do livro" width="250"/>
+  <img src="screenshots/details_screen.jpg" alt="Detalhes do livro" width="250"/>
   <p><em>Detalhes do livro com sinopse e avaliações</em></p>
-  <img src="screenshots/favorites_screen.png" alt="Lista de favoritos" width="250"/>
+  <img src="screenshots/favorites_screen.jpg" alt="Lista de favoritos" width="250"/>
   <p><em>Gerenciamento de livros favoritos</em></p>
 </div>
 

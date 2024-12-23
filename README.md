@@ -11,13 +11,7 @@
 - 🌓 Modo claro/escuro
 - 💾 Armazenamento local de dados
 
-<<<<<<< HEAD
-=======
-## 🎨 Screenshots
 
-[ADICIONAR SCREENSHOTS DO APP AQUI]
-
->>>>>>> 8c341cb (first commit)
 ## 🛠️ Tecnologias Utilizadas
 
 - **Flutter** - Framework UI multiplataforma
@@ -45,10 +39,6 @@
 
 ## 👤 Autor
 
-<<<<<<< HEAD
 Verônica Gabriela Martins Gomes
 - GitHub: (@VegaMartins)(https://github.com/VegaMartins)
-=======
-Seu Nome
-- GitHub: [@VegaMartins](https://github.com/VegaMartins)
->>>>>>> 8c341cb (first commit)
+

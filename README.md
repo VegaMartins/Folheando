@@ -11,6 +11,12 @@
 - 🌓 Modo claro/escuro
 - 💾 Armazenamento local de dados
 
+## 📱 Screenshots
+
+<div align="center">
+<img src="screenshots/home_screen.jpg" width="200"/> <img src="screenshots/details_screen.jpg" width="200"/> <img src="screenshots/favorites_screen.jpg" width="200"/>
+</div>
+
 
 ## 🛠️ Tecnologias Utilizadas
 

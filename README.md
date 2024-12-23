@@ -42,5 +42,5 @@
 
 ## 👤 Autor
 
-Seu Nome
-- GitHub: [@VegaMartins](https://github.com/VegaMartins)
+Verônica Gabriela Martins Gomes
+- GitHub: (@VegaMartins](https://github.com/VegaMartins)
